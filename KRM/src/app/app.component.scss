@@ -1,0 +1,30 @@
+a{
+  color: white;
+  &:hover{
+    color: aquamarine;
+  }
+}
+.lnks{
+  display: flex;
+  justify-content: center;
+}
+.circle_motion{
+  animation: spin 2s linear infinite;
+}
+@keyframes spin{
+  100%{-webkit-transform: rotate(360deg);}
+}
+.navbar-brand{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  border: 2px solid white;
+  border-radius: 50px;
+}
+
+
+*{
+  font-size: 103%;
+}

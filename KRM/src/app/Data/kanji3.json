@@ -1,0 +1,998 @@
+[
+  {
+    "name": "\u7acb",
+    "kun": " \u305f.\u3064, -\u305f.\u3064, \u305f.\u3061-, \u305f.\u3066\u308b, -\u305f.\u3066\u308b, \u305f.\u3066-, \u305f\u3066-, -\u305f.\u3066, -\u3060.\u3066, -\u3060.\u3066\u308b",
+    "on": " \u30ea\u30c4, \u30ea\u30e5\u30a6, \u30ea\u30c3\u30c8\u30eb",
+    "meaning": " stand up"
+  },
+  {
+    "name": "\u624b",
+    "kun": " \u3066, \u3066-, -\u3066, \u305f-",
+    "on": " \u30b7\u30e5, \u30ba",
+    "meaning": " hand"
+  },
+  {
+    "name": "\u529b",
+    "kun": " \u3061\u304b\u3089",
+    "on": " \u30ea\u30e7\u30af, \u30ea\u30ad, \u30ea\u30a4",
+    "meaning": " power, strong, strain, bear up, exert"
+  },
+  {
+    "name": "\u76ee",
+    "kun": " \u3081, -\u3081, \u307e-",
+    "on": " \u30e2\u30af, \u30dc\u30af",
+    "meaning": " eye, class, look, insight, experience, care, favor"
+  },
+  {
+    "name": "\u7530",
+    "kun": " \u305f",
+    "on": " \u30c7\u30f3",
+    "meaning": " rice field, rice paddy"
+  },
+  {
+    "name": "\u6b63",
+    "kun": " \u305f\u3060.\u3057\u3044, \u305f\u3060.\u3059, \u307e\u3055, \u307e\u3055.\u306b",
+    "on": " \u30bb\u30a4, \u30b7\u30e7\u30a6",
+    "meaning": " correct, justice, righteous, 10**40"
+  },
+  {
+    "name": "\u6587",
+    "kun": " \u3075\u307f, \u3042\u3084",
+    "on": " \u30d6\u30f3, \u30e2\u30f3",
+    "meaning": " sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)"
+  },
+  {
+    "name": "\u4f1a",
+    "kun": " \u3042.\u3046, \u3042.\u308f\u305b\u308b, \u3042\u3064.\u307e\u308b",
+    "on": " \u30ab\u30a4, \u30a8",
+    "meaning": " meeting, meet, party, association, interview, join"
+  },
+  {
+    "name": "\u540c",
+    "kun": " \u304a\u306a.\u3058",
+    "on": " \u30c9\u30a6",
+    "meaning": " same, agree, equal"
+  },
+  {
+    "name": "\u81ea",
+    "kun": " \u307f\u305a\u304b.\u3089, \u304a\u306e.\u305a\u304b\u3089, \u304a\u306e.\u305a\u3068",
+    "on": " \u30b8, \u30b7",
+    "meaning": " oneself"
+  },
+  {
+    "name": "\u793e",
+    "kun": " \u3084\u3057\u308d",
+    "on": " \u30b7\u30e3",
+    "meaning": " company, firm, office, association, shrine"
+  },
+  {
+    "name": "\u5730",
+    "on": " \u30c1, \u30b8",
+    "meaning": " ground, earth",
+    "words": "\nWordReadingMeaning\n\u5730\u3061earth, ground, land, soil; place; territory; bottom (of a package, book, etc.)\n\u73fe\u5730\u3052\u3093\u3061actual place, local\n\u5730\u57df\u3061\u3044\u304darea, region\n\u5730\u7403\u3061\u304d\u3085\u3046the earth\n\u5730\u533a\u3061\u304fdistrict, section, sector\n\u5730\u5143\u3058\u3082\u3068home area, home town; local\n\u5730\u65b9\u3061\u307b\u3046, \u3058\u304b\u305farea, locality, district, region, province; countryside, rural area; coast (esp. as seen from the water); person singing ballads in Noh, person in charge of music in a Japanese dance performance\n\u571f\u5730\u3068\u3061plot of land, lot, soil\n\u57fa\u5730\u304d\u3061base\n\u5730\u691c\u3061\u3051\u3093District Public Prosecutor's Office\n"
+  },
+  {
+    "name": "\u65b9",
+    "kun": " \u304b\u305f, -\u304b\u305f, -\u304c\u305f",
+    "on": " \u30db\u30a6",
+    "meaning": " direction, person, alternative"
+  },
+  {
+    "name": "\u65b0",
+    "kun": " \u3042\u305f\u3089.\u3057\u3044, \u3042\u3089.\u305f, \u3042\u3089-, \u306b\u3044-",
+    "on": " \u30b7\u30f3",
+    "meaning": " new"
+  },
+  {
+    "name": "\u5834",
+    "kun": " \u3070",
+    "on": " \u30b8\u30e7\u30a6, \u30c1\u30e7\u30a6",
+    "meaning": " location, place"
+  },
+  {
+    "name": "\u53e3",
+    "kun": " \u304f\u3061",
+    "on": " \u30b3\u30a6, \u30af",
+    "meaning": " mouth"
+  },
+  {
+    "name": "\u753a",
+    "kun": " \u307e\u3061",
+    "on": " \u30c1\u30e7\u30a6",
+    "meaning": " town, village, block, street"
+  },
+  {
+    "name": "\u660e",
+    "kun": " \u3042.\u304b\u308a, \u3042\u304b.\u308b\u3044, \u3042\u304b.\u308b\u3080, \u3042\u304b.\u3089\u3080, \u3042\u304d.\u3089\u304b, \u3042.\u3051\u308b, -\u3042.\u3051, \u3042.\u304f, \u3042.\u304f\u308b, \u3042.\u304b\u3059",
+    "on": " \u30e1\u30a4, \u30df\u30e7\u30a6, \u30df\u30f3",
+    "meaning": " bright, light"
+  },
+  {
+    "name": "\u4eac",
+    "kun": " \u307f\u3084\u3053",
+    "on": " \u30ad\u30e7\u30a6, \u30b1\u30a4, \u30ad\u30f3",
+    "meaning": " capital, 10**16"
+  },
+  {
+    "name": "\u7a7a",
+    "kun": " \u305d\u3089, \u3042.\u304f, \u3042.\u304d, \u3042.\u3051\u308b, \u304b\u3089, \u3059.\u304f, \u3059.\u304b\u3059, \u3080\u306a.\u3057\u3044",
+    "on": " \u30af\u30a6",
+    "meaning": " empty, sky, void, vacant, vacuum"
+  },
+  {
+    "name": "\u901a",
+    "kun": " \u3068\u304a.\u308b, \u3068\u304a.\u308a, -\u3068\u304a.\u308a, -\u3069\u304a.\u308a, \u3068\u304a.\u3059, \u3068\u304a.\u3057, -\u3069\u304a.\u3057, \u304b\u3088.\u3046",
+    "on": " \u30c4\u30a6, \u30c4",
+    "meaning": " traffic, pass through, avenue, commute, counter for letters, notes, documents, etc."
+  },
+  {
+    "name": "\u8a00",
+    "kun": " \u3044.\u3046, \u3053\u3068",
+    "on": " \u30b2\u30f3, \u30b4\u30f3",
+    "meaning": " say"
+  },
+  {
+    "name": "\u7406",
+    "kun": " \u3053\u3068\u308f\u308a",
+    "on": " \u30ea",
+    "meaning": " logic, arrangement, reason, justice, truth"
+  },
+  {
+    "name": "\u4f53",
+    "kun": " \u304b\u3089\u3060, \u304b\u305f\u3061",
+    "on": " \u30bf\u30a4, \u30c6\u30a4",
+    "meaning": " body, substance, object, reality, counter for images"
+  },
+  {
+    "name": "\u4f5c",
+    "kun": " \u3064\u304f.\u308b, \u3064\u304f.\u308a, -\u3065\u304f.\u308a",
+    "on": " \u30b5\u30af, \u30b5",
+    "meaning": " make, production, prepare, build"
+  },
+  {
+    "name": "\u7528",
+    "kun": " \u3082\u3061.\u3044\u308b",
+    "on": " \u30e8\u30a6",
+    "meaning": " utilize, business, service, use, employ"
+  },
+  {
+    "name": "\u5f37",
+    "kun": " \u3064\u3088.\u3044, \u3064\u3088.\u307e\u308b, \u3064\u3088.\u3081\u308b, \u3057.\u3044\u308b, \u3053\u308f.\u3044",
+    "on": " \u30ad\u30e7\u30a6, \u30b4\u30a6",
+    "meaning": " strong"
+  },
+  {
+    "name": "\u8db3",
+    "kun": " \u3042\u3057, \u305f.\u308a\u308b, \u305f.\u308b, \u305f.\u3059",
+    "on": " \u30bd\u30af",
+    "meaning": " leg, foot, be sufficient, counter for pairs of footwear"
+  },
+  {
+    "name": "\u516c",
+    "kun": " \u304a\u304a\u3084\u3051",
+    "on": " \u30b3\u30a6, \u30af",
+    "meaning": " public, prince, official, governmental"
+  },
+  {
+    "name": "\u91ce",
+    "kun": " \u306e, \u306e-",
+    "on": " \u30e4, \u30b7\u30e7",
+    "meaning": " plains, field, rustic, civilian life"
+  },
+  {
+    "name": "\u601d",
+    "kun": " \u304a\u3082.\u3046, \u304a\u3082\u3048\u3089.\u304f, \u304a\u307c.\u3059",
+    "on": " \u30b7",
+    "meaning": " think"
+  },
+  {
+    "name": "\u5bb6",
+    "kun": " \u3044\u3048, \u3084, \u3046\u3061",
+    "on": " \u30ab, \u30b1",
+    "meaning": " house, home"
+  },
+  {
+    "name": "\u591a",
+    "kun": " \u304a\u304a.\u3044, \u307e\u3055.\u306b, \u307e\u3055.\u308b",
+    "on": " \u30bf",
+    "meaning": " many, frequent, much"
+  },
+  {
+    "name": "\u5fc3",
+    "kun": " \u3053\u3053\u308d, -\u3054\u3053\u308d",
+    "on": " \u30b7\u30f3",
+    "meaning": " heart, mind, spirit, heart radical (no. 61)"
+  },
+  {
+    "name": "\u6559",
+    "kun": " \u304a\u3057.\u3048\u308b, \u304a\u305d.\u308f\u308b",
+    "on": " \u30ad\u30e7\u30a6",
+    "meaning": " teach, faith, doctrine"
+  },
+  {
+    "name": "\u65e9",
+    "kun": " \u306f\u3084.\u3044, \u306f\u3084, \u306f\u3084-, \u306f\u3084.\u307e\u308b, \u306f\u3084.\u3081\u308b, \u3055-",
+    "on": " \u30bd\u30a6, \u30b5\u30c3",
+    "meaning": " early, fast"
+  },
+  {
+    "name": "\u5143",
+    "kun": " \u3082\u3068",
+    "on": " \u30b2\u30f3, \u30ac\u30f3",
+    "meaning": " beginning, former time, origin"
+  },
+  {
+    "name": "\u8fd1",
+    "kun": " \u3061\u304b.\u3044",
+    "on": " \u30ad\u30f3, \u30b3\u30f3",
+    "meaning": " near, early, akin, tantamount"
+  },
+  {
+    "name": "\u8003",
+    "kun": " \u304b\u3093\u304c.\u3048\u308b, \u304b\u3093\u304c.\u3048",
+    "on": " \u30b3\u30a6",
+    "meaning": " consider, think over"
+  },
+  {
+    "name": "\u753b",
+    "kun": " \u3048\u304c.\u304f, \u304b\u304f.\u3059\u308b, \u304b\u304e.\u308b, \u306f\u304b\u308a\u3054\u3068, \u306f\u304b.\u308b",
+    "on": " \u30ac, \u30ab\u30af, \u30a8, \u30ab\u30a4",
+    "meaning": " brush-stroke, picture"
+  },
+  {
+    "name": "\u6d77",
+    "kun": " \u3046\u307f",
+    "on": " \u30ab\u30a4",
+    "meaning": " sea, ocean"
+  },
+  {
+    "name": "\u58f2",
+    "kun": " \u3046.\u308b, \u3046.\u308c\u308b",
+    "on": " \u30d0\u30a4",
+    "meaning": " sell"
+  },
+  {
+    "name": "\u77e5",
+    "kun": " \u3057.\u308b, \u3057.\u3089\u305b\u308b",
+    "on": " \u30c1",
+    "meaning": " know, wisdom"
+  },
+  {
+    "name": "\u9053",
+    "kun": " \u307f\u3061",
+    "on": " \u30c9\u30a6, \u30c8\u30a6",
+    "meaning": " road-way, street, district, journey, course, moral, teachings"
+  },
+  {
+    "name": "\u8a08",
+    "kun": " \u306f\u304b.\u308b, \u306f\u304b.\u3089\u3046",
+    "on": " \u30b1\u30a4",
+    "meaning": " plot, plan, scheme, measure"
+  },
+  {
+    "name": "\u4e8b",
+    "kun": " \u3053\u3068, \u3064\u304b.\u3046, \u3064\u304b.\u3048\u308b",
+    "on": " \u30b8, \u30ba",
+    "meaning": " matter, thing, fact, business, reason, possibly"
+  },
+  {
+    "name": "\u671d",
+    "kun": " \u3042\u3055",
+    "on": " \u30c1\u30e7\u30a6",
+    "meaning": " morning, dynasty, regime, epoch, period, (North) Korea"
+  },
+  {
+    "name": "\u5b57",
+    "kun": " \u3042\u3056, \u3042\u3056\u306a, -\u306a",
+    "on": " \u30b8",
+    "meaning": " character, letter, word, section of village"
+  },
+  {
+    "name": "\u767a",
+    "kun": " \u305f.\u3064, \u3042\u3070.\u304f, \u304a\u3053.\u308b, \u3064\u304b.\u308f\u3059, \u306f\u306a.\u3064",
+    "on": " \u30cf\u30c4, \u30db\u30c4",
+    "meaning": " discharge, departure, publish, emit, start from, disclose, counter for gunshots"
+  },
+  {
+    "name": "\u53f0",
+    "kun": " \u3046\u3066\u306a, \u308f\u308c, \u3064\u304b\u3055",
+    "on": " \u30c0\u30a4, \u30bf\u30a4",
+    "meaning": " pedestal, a stand, counter for machines and vehicles"
+  },
+  {
+    "name": "\u5e83",
+    "kun": " \u3072\u308d.\u3044, \u3072\u308d.\u307e\u308b, \u3072\u308d.\u3081\u308b, \u3072\u308d.\u304c\u308b, \u3072\u308d.\u3052\u308b",
+    "on": " \u30b3\u30a6",
+    "meaning": " wide, broad, spacious"
+  },
+  {
+    "name": "\u97f3",
+    "kun": " \u304a\u3068, \u306d",
+    "on": " \u30aa\u30f3, \u30a4\u30f3, -\u30ce\u30f3",
+    "meaning": " sound, noise"
+  },
+  {
+    "name": "\u8005",
+    "kun": " \u3082\u306e",
+    "on": " \u30b7\u30e3",
+    "meaning": " someone, person"
+  },
+  {
+    "name": "\u696d",
+    "kun": " \u308f\u3056",
+    "on": " \u30ae\u30e7\u30a6, \u30b4\u30a6",
+    "meaning": " business, vocation, arts, performance"
+  },
+  {
+    "name": "\u54e1",
+    "on": " \u30a4\u30f3",
+    "meaning": " employee, member, number, the one in charge",
+    "words": "\nWordReadingMeaning\n\u59d4\u54e1\u3044\u3044\u3093committee member\n\u59d4\u54e1\u4f1a\u3044\u3044\u3093\u304b\u3044committee, commission, board, panel, committee meeting\n\u59d4\u54e1\u9577\u3044\u3044\u3093\u3061\u3087\u3046committee chairman\n\u4f1a\u54e1\u304b\u3044\u3044\u3093member, the membership\n\u8b70\u54e1\u304e\u3044\u3093member of the Diet, congress or parliament\n\u8077\u54e1\u3057\u3087\u304f\u3044\u3093staff member, personnel\n\u56fd\u4f1a\u8b70\u54e1\u3053\u3063\u304b\u3044\u304e\u3044\u3093member of National Diet, Diet member\n\u793e\u54e1\u3057\u3083\u3044\u3093company employee; company stockholders (esp. in legal contexts), members of a corporation\n\u5168\u54e1\u305c\u3093\u3044\u3093all members (unanimity), all hands, the whole crew, everyone, everybody\n\u5f79\u54e1\u3084\u304f\u3044\u3093officer, official, executive, staff\n"
+  },
+  {
+    "name": "\u958b",
+    "kun": " \u3072\u3089.\u304f, \u3072\u3089.\u304d, -\u3073\u3089.\u304d, \u3072\u3089.\u3051\u308b, \u3042.\u304f, \u3042.\u3051\u308b",
+    "on": " \u30ab\u30a4",
+    "meaning": " open, unfold, unseal"
+  },
+  {
+    "name": "\u5c11",
+    "kun": " \u3059\u304f.\u306a\u3044, \u3059\u3053.\u3057",
+    "on": " \u30b7\u30e7\u30a6",
+    "meaning": " few, little"
+  },
+  {
+    "name": "\u554f",
+    "kun": " \u3068.\u3046, \u3068.\u3044, \u3068\u3093",
+    "on": " \u30e2\u30f3",
+    "meaning": " question, ask, problem"
+  },
+  {
+    "name": "\u4ee3",
+    "kun": " \u304b.\u308f\u308b, \u304b\u308f.\u308b, \u304b\u308f.\u308a, -\u304c\u308f.\u308a, \u304b.\u3048\u308b, \u3088, \u3057\u308d",
+    "on": " \u30c0\u30a4, \u30bf\u30a4",
+    "meaning": " substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee"
+  },
+  {
+    "name": "\u5de5",
+    "on": " \u30b3\u30a6, \u30af, \u30b0",
+    "meaning": " craft, construction, katakana e radical (no. 48)",
+    "words": "\nWordReadingMeaning\n\u5de5\u5834\u3053\u3046\u3058\u3087\u3046, \u3053\u3046\u3070factory, plant, mill, workshop\n\u5de5\u696d\u3053\u3046\u304e\u3087\u3046(manufacturing) industry\n\u5de5\u4e8b\u3053\u3046\u3058construction work\n\u5de5\u4f5c\u3053\u3046\u3055\u304fwork, construction, handicraft, maneuvering, manoeuvering\n\u52a0\u5de5\u304b\u3053\u3046manufacturing, processing, treatment, machining\n\u5de5\u592b\u304f\u3075\u3046scheme, device, scheming, devising, figuring out, coming up with, solving ingeniously; dedication to spiritual improvement (esp. through Zen meditation)\n\u4eba\u5de5\u3058\u3093\u3053\u3046artificial, manmade, human work, human skill, artificiality\n\u5de5\u5b66\u3053\u3046\u304c\u304fengineering\n\u5546\u5de5\u3057\u3087\u3046\u3053\u3046commerce and industry\n\u5927\u5de5\u3060\u3044\u304fcarpenter\n"
+  },
+  {
+    "name": "\u52d5",
+    "kun": " \u3046\u3054.\u304f, \u3046\u3054.\u304b\u3059",
+    "on": " \u30c9\u30a6",
+    "meaning": " move, motion, change, confusion, shift, shake"
+  },
+  {
+    "name": "\u6b62",
+    "kun": " \u3068.\u307e\u308b, -\u3069.\u307e\u308a, \u3068.\u3081\u308b, -\u3068.\u3081\u308b, -\u3069.\u3081, \u3068\u3069.\u3081\u308b, \u3068\u3069.\u3081, \u3068\u3069.\u307e\u308b, \u3084.\u3081\u308b, \u3084.\u3080, -\u3084.\u3080, \u3088.\u3059, -\u3055.\u3059, -\u3055.\u3057",
+    "on": " \u30b7",
+    "meaning": " stop, halt"
+  },
+  {
+    "name": "\u4e3b",
+    "kun": " \u306c\u3057, \u304a\u3082, \u3042\u308b\u3058",
+    "on": " \u30b7\u30e5, \u30b9, \u30b7\u30e5\u30a6",
+    "meaning": " lord, chief, master, main thing, principal"
+  },
+  {
+    "name": "\u984c",
+    "on": " \u30c0\u30a4",
+    "meaning": " topic, subject",
+    "words": "\nWordReadingMeaning\n\u8ab2\u984c\u304b\u3060\u3044subject, theme, task, challenge, issue\n\u554f\u984c\u3082\u3093\u3060\u3044problem, question\n\u8a71\u984c\u308f\u3060\u3044topic, subject\n\u984c\u3060\u3044title, subject, theme, topic; problem (on a test), question; counter for questions (on a test)\n\u554f\u984c\u70b9\u3082\u3093\u3060\u3044\u3066\u3093the point at issue\n\u8b70\u984c\u304e\u3060\u3044topic of discussion, agenda\n\u984c\u6750\u3060\u3044\u3056\u3044subject, theme\n\u793e\u4f1a\u554f\u984c\u3057\u3083\u304b\u3044\u3082\u3093\u3060\u3044social problem\n\u4e3b\u984c\u3057\u3085\u3060\u3044subject, theme, motif\n\u5bbf\u984c\u3057\u3085\u304f\u3060\u3044homework\n"
+  },
+  {
+    "name": "\u5207",
+    "kun": " \u304d.\u308b, -\u304d.\u308b, \u304d.\u308a, -\u304d.\u308a, -\u304e.\u308a, \u304d.\u308c\u308b, -\u304d.\u308c\u308b, \u304d.\u308c, -\u304d.\u308c, -\u304e.\u308c",
+    "on": " \u30bb\u30c4, \u30b5\u30a4",
+    "meaning": " cut, cutoff, be sharp"
+  },
+  {
+    "name": "\u610f",
+    "on": " \u30a4",
+    "meaning": " idea, mind, heart, taste, thought, desire, care, liking",
+    "words": "\nWordReadingMeaning\n\u610f\u898b\u3044\u3051\u3093opinion, view\n\u610f\u5473\u3044\u307fmeaning, significance\n\u5408\u610f\u3054\u3046\u3044agreement, consent, mutual understanding\n\u610f\u5411\u3044\u3053\u3046intention, idea, inclination\n\u610f\u601d\u3044\u3057intention, purpose\n\u610f\u8b58\u3044\u3057\u304dconsciousness; awareness, sense; mano-vijnana (mental consciousness, cognizer of sensory information)\n\u610f\u6b32\u3044\u3088\u304fwill, desire, ambition\n\u6c7a\u610f\u3051\u3064\u3044decision, determination\n\u610f\u5916\u3044\u304c\u3044unexpected, surprising\n\u610f\u7fa9\u3044\u304emeaning, significance\n"
+  },
+  {
+    "name": "\u5ea6",
+    "kun": " \u305f\u3073, -\u305f.\u3044",
+    "on": " \u30c9, \u30c8, \u30bf\u30af",
+    "meaning": " degrees, occurrence, time, counter for occurrences"
+  },
+  {
+    "name": "\u6301",
+    "kun": " \u3082.\u3064, -\u3082.\u3061, \u3082.\u3066\u308b",
+    "on": " \u30b8",
+    "meaning": " hold, have"
+  },
+  {
+    "name": "\u82b1",
+    "kun": " \u306f\u306a",
+    "on": " \u30ab, \u30b1",
+    "meaning": " flower"
+  },
+  {
+    "name": "\u8d64",
+    "kun": " \u3042\u304b, \u3042\u304b-, \u3042\u304b.\u3044, \u3042\u304b.\u3089\u3080, \u3042\u304b.\u3089\u3081\u308b",
+    "on": " \u30bb\u30ad, \u30b7\u30e3\u30af",
+    "meaning": " red"
+  },
+  {
+    "name": "\u9752",
+    "kun": " \u3042\u304a, \u3042\u304a-, \u3042\u304a.\u3044",
+    "on": " \u30bb\u30a4, \u30b7\u30e7\u30a6",
+    "meaning": " blue, green"
+  },
+  {
+    "name": "\u4e16",
+    "kun": " \u3088, \u3055\u3093\u3058\u3085\u3046",
+    "on": " \u30bb\u30a4, \u30bb, \u30bd\u30a6",
+    "meaning": " generation, world, society, public"
+  },
+  {
+    "name": "\u5b89",
+    "kun": " \u3084\u3059.\u3044, \u3084\u3059.\u307e\u308b, \u3084\u3059, \u3084\u3059.\u3089\u304b",
+    "on": " \u30a2\u30f3",
+    "meaning": " relax, cheap, low, quiet, rested, contented, peaceful"
+  },
+  {
+    "name": "\u697d",
+    "kun": " \u305f\u306e.\u3057\u3044, \u305f\u306e.\u3057\u3080, \u3053\u306e.\u3080",
+    "on": " \u30ac\u30af, \u30e9\u30af, \u30b4\u30a6",
+    "meaning": " music, comfort, ease"
+  },
+  {
+    "name": "\u9662",
+    "on": " \u30a4\u30f3",
+    "meaning": " Inst., institution, temple, mansion, school",
+    "words": "\nWordReadingMeaning\n\u53c2\u9662\u3055\u3093\u3044\u3093House of Councillors\n\u8846\u9662\u3057\u3085\u3046\u3044\u3093lower house of the Diet\n\u75c5\u9662\u3073\u3087\u3046\u3044\u3093hospital\n\u4e0b\u9662\u304b\u3044\u3093lower house, lower (legislative) body\n\u4e0a\u9662\u3058\u3087\u3046\u3044\u3093Upper House, Senate, Lords\n\u5b66\u9662\u304c\u304f\u3044\u3093institute, academy\n\u5927\u5b66\u9662\u3060\u3044\u304c\u304f\u3044\u3093graduate school\n\u5165\u9662\u306b\u3085\u3046\u3044\u3093hospitalization, hospitalisation\n\u4e21\u9662\u308a\u3087\u3046\u3044\u3093both Houses of Parliament\n\u9662\u9577\u3044\u3093\u3061\u3087\u3046director\n"
+  },
+  {
+    "name": "\u5e97",
+    "kun": " \u307f\u305b, \u305f\u306a",
+    "on": " \u30c6\u30f3",
+    "meaning": " store, shop"
+  },
+  {
+    "name": "\u754c",
+    "on": " \u30ab\u30a4",
+    "meaning": " world",
+    "words": "\nWordReadingMeaning\n\u696d\u754c\u304e\u3087\u3046\u304b\u3044industry, business\n\u4e16\u754c\u305b\u304b\u3044the world, society, the universe\n\u653f\u754c\u305b\u3044\u304b\u3044political world\n\u8ca1\u754c\u3056\u3044\u304b\u3044financial world\n\u9650\u754c\u3052\u3093\u304b\u3044limit, bound\n\u4e16\u754c\u7684\u305b\u304b\u3044\u3066\u304dglobal, international, world-famous\n\u7d4c\u6e08\u754c\u3051\u3044\u3056\u3044\u304b\u3044economic world, financial circles\n\u7523\u696d\u754c\u3055\u3093\u304e\u3087\u3046\u304b\u3044the industrial world\n\u4e16\u754c\u4e00\u305b\u304b\u3044\u3044\u3061best in the world\n\u5883\u754c\u304d\u3087\u3046\u304b\u3044boundary\n"
+  },
+  {
+    "name": "\u89aa",
+    "kun": " \u304a\u3084, \u304a\u3084-, \u3057\u305f.\u3057\u3044, \u3057\u305f.\u3057\u3080",
+    "on": " \u30b7\u30f3",
+    "meaning": " parent, intimacy, relative, familiarity, dealer (cards)"
+  },
+  {
+    "name": "\u91cd",
+    "kun": " \u3048, \u304a\u3082.\u3044, \u304a\u3082.\u308a, \u304a\u3082.\u306a\u3046, \u304b\u3055.\u306d\u308b, \u304b\u3055.\u306a\u308b, \u304a\u3082",
+    "on": " \u30b8\u30e5\u30a6, \u30c1\u30e7\u30a6",
+    "meaning": " heavy, heap up, pile up, nest of boxes, -fold"
+  },
+  {
+    "name": "\u96c6",
+    "kun": " \u3042\u3064.\u307e\u308b, \u3042\u3064.\u3081\u308b, \u3064\u3069.\u3046",
+    "on": " \u30b7\u30e5\u30a6",
+    "meaning": " gather, meet, congregate, swarm, flock"
+  },
+  {
+    "name": "\u7269",
+    "kun": " \u3082\u306e, \u3082\u306e-",
+    "on": " \u30d6\u30c4, \u30e2\u30c4",
+    "meaning": " thing, object, matter"
+  },
+  {
+    "name": "\u4f7f",
+    "kun": " \u3064\u304b.\u3046, \u3064\u304b.\u3044, -\u3064\u304b.\u3044, -\u3065\u304b.\u3044",
+    "on": " \u30b7",
+    "meaning": " use"
+  },
+  {
+    "name": "\u54c1",
+    "kun": " \u3057\u306a",
+    "on": " \u30d2\u30f3, \u30db\u30f3",
+    "meaning": " goods, refinement, dignity, article, counter for meal courses"
+  },
+  {
+    "name": "\u6b7b",
+    "kun": " \u3057.\u306c, \u3057.\u306b-",
+    "on": " \u30b7",
+    "meaning": " death, die"
+  },
+  {
+    "name": "\u59cb",
+    "kun": " \u306f\u3058.\u3081\u308b, -\u306f\u3058.\u3081\u308b, \u306f\u3058.\u307e\u308b",
+    "on": " \u30b7",
+    "meaning": " commence, begin"
+  },
+  {
+    "name": "\u904b",
+    "kun": " \u306f\u3053.\u3076",
+    "on": " \u30a6\u30f3",
+    "meaning": " carry, luck, destiny, fate, lot, transport, progress, advance"
+  },
+  {
+    "name": "\u7d42",
+    "kun": " \u304a.\u308f\u308b, -\u304a.\u308f\u308b, \u304a\u308f.\u308b, \u304a.\u3048\u308b, \u3064\u3044, \u3064\u3044.\u306b",
+    "on": " \u30b7\u30e5\u30a6",
+    "meaning": " end, finish"
+  },
+  {
+    "name": "\u7b54",
+    "kun": " \u3053\u305f.\u3048\u308b, \u3053\u305f.\u3048",
+    "on": " \u30c8\u30a6",
+    "meaning": " solution, answer"
+  },
+  {
+    "name": "\u591c",
+    "kun": " \u3088, \u3088\u308b",
+    "on": " \u30e4",
+    "meaning": " night, evening"
+  },
+  {
+    "name": "\u4f4f",
+    "kun": " \u3059.\u3080, \u3059.\u307e\u3046, -\u305a.\u307e\u3044",
+    "on": " \u30b8\u30e5\u30a6, \u30c2\u30e5\u30a6, \u30c1\u30e5\u30a6",
+    "meaning": " dwell, reside, live, inhabit"
+  },
+  {
+    "name": "\u5e30",
+    "kun": " \u304b\u3048.\u308b, \u304b\u3048.\u3059, \u304a\u304f.\u308b, \u3068\u3064.\u3050",
+    "on": " \u30ad",
+    "meaning": " homecoming, arrive at, lead to, result in"
+  },
+  {
+    "name": "\u771f",
+    "kun": " \u307e, \u307e-, \u307e\u3053\u3068",
+    "on": " \u30b7\u30f3",
+    "meaning": " true, reality, Buddhist sect"
+  },
+  {
+    "name": "\u53e4",
+    "kun": " \u3075\u308b.\u3044, \u3075\u308b-, -\u3075\u308b.\u3059",
+    "on": " \u30b3",
+    "meaning": " old"
+  },
+  {
+    "name": "\u6709",
+    "kun": " \u3042.\u308b",
+    "on": " \u30e6\u30a6, \u30a6",
+    "meaning": " possess, have, exist, happen, occur, approx"
+  },
+  {
+    "name": "\u6b4c",
+    "kun": " \u3046\u305f, \u3046\u305f.\u3046",
+    "on": " \u30ab",
+    "meaning": " song, sing"
+  },
+  {
+    "name": "\u8cb7",
+    "kun": " \u304b.\u3046",
+    "on": " \u30d0\u30a4",
+    "meaning": " buy"
+  },
+  {
+    "name": "\u6025",
+    "kun": " \u3044\u305d.\u3050, \u3044\u305d.\u304e",
+    "on": " \u30ad\u30e5\u30a6",
+    "meaning": " hurry, emergency, sudden, steep"
+  },
+  {
+    "name": "\u9001",
+    "kun": " \u304a\u304f.\u308b",
+    "on": " \u30bd\u30a6",
+    "meaning": " escort, send"
+  },
+  {
+    "name": "\u56f3",
+    "kun": " \u3048, \u306f\u304b.\u308b",
+    "on": " \u30ba, \u30c8",
+    "meaning": " map, drawing, plan, unexpected, accidentally"
+  },
+  {
+    "name": "\u9031",
+    "on": " \u30b7\u30e5\u30a6",
+    "meaning": " week",
+    "words": "\nWordReadingMeaning\n\u9031\u3057\u3085\u3046week\n\u9031\u520a\u3057\u3085\u3046\u304b\u3093published weekly\n\u4e00\u9031\u9593\u3044\u3063\u3057\u3085\u3046\u304b\u3093one week\n\u4eca\u9031\u3053\u3093\u3057\u3085\u3046this week\n\u5148\u9031\u305b\u3093\u3057\u3085\u3046last week, the week before\n\u6bce\u9031\u307e\u3044\u3057\u3085\u3046every week\n\u9031\u672b\u3057\u3085\u3046\u307e\u3064weekend\n\u6765\u9031\u3089\u3044\u3057\u3085\u3046next week\n\u9031\u660e\u3051\u3057\u3085\u3046\u3042\u3051beginning of the week, new week opening, Monday\n\u9031\u4f11\u3057\u3085\u3046\u304d\u3085\u3046weekly holiday\n"
+  },
+  {
+    "name": "\u5ba4",
+    "kun": " \u3080\u308d",
+    "on": " \u30b7\u30c4",
+    "meaning": " room, apartment, chamber, greenhouse, cellar"
+  },
+  {
+    "name": "\u6b69",
+    "kun": " \u3042\u308b.\u304f, \u3042\u3086.\u3080",
+    "on": " \u30db, \u30d6, \u30d5",
+    "meaning": " walk, counter for steps"
+  },
+  {
+    "name": "\u8ee2",
+    "kun": " \u3053\u308d.\u304c\u308b, \u3053\u308d.\u3052\u308b, \u3053\u308d.\u304c\u3059, \u3053\u308d.\u3076, \u307e\u308d.\u3076, \u3046\u305f\u305f, \u3046\u3064.\u308b, \u304f\u308b.\u3081\u304f",
+    "on": " \u30c6\u30f3",
+    "meaning": " revolve, turn around, change"
+  },
+  {
+    "name": "\u4e0d",
+    "on": " \u30d5, \u30d6",
+    "meaning": " negative, non-, bad, ugly, clumsy",
+    "words": "\nWordReadingMeaning\n\u4e0d\u6cc1\u3075\u304d\u3087\u3046recession, depression, slump\n\u4e0d\u5b89\u3075\u3042\u3093anxiety, uneasiness, insecurity, suspense\n\u4e0d\u8db3\u3075\u305d\u304finsufficiency, shortage, deficiency, lack, dearth\n\u4e0d\u52d5\u7523\u3075\u3069\u3046\u3055\u3093real estate\n\u4e0d\u6e80\u3075\u307e\u3093dissatisfaction, displeasure, discontent, complaints, unhappiness, disgruntled\n\u4e0d\u660e\u3075\u3081\u3044unknown, obscure, indistinct, uncertain, ambiguous, ignorant, lack of wisdom, anonymous, unidentified\n\u5fc3\u4e0d\u5168\u3057\u3093\u3075\u305c\u3093heart failure\n\u4e0d\u4fe1\u3075\u3057\u3093unfaithfulness, insincerity, perfidy, mistrust, distrust, discredit\n\u4e0d\u7965\u4e8b\u3075\u3057\u3087\u3046\u3058scandal, deplorable event\n\u4e0d\u632f\u3075\u3057\u3093dullness, depression, slump, stagnation\n"
+  },
+  {
+    "name": "\u98a8",
+    "kun": " \u304b\u305c, \u304b\u3056-, -\u304b\u305c",
+    "on": " \u30d5\u30a6, \u30d5",
+    "meaning": " wind, air, style, manner"
+  },
+  {
+    "name": "\u7d19",
+    "kun": " \u304b\u307f",
+    "on": " \u30b7",
+    "meaning": " paper"
+  },
+  {
+    "name": "\u7814",
+    "kun": " \u3068.\u3050",
+    "on": " \u30b1\u30f3",
+    "meaning": " polish, study of, sharpen"
+  },
+  {
+    "name": "\u9ed2",
+    "kun": " \u304f\u308d, \u304f\u308d.\u305a\u3080, \u304f\u308d.\u3044",
+    "on": " \u30b3\u30af",
+    "meaning": " black"
+  },
+  {
+    "name": "\u6625",
+    "kun": " \u306f\u308b",
+    "on": " \u30b7\u30e5\u30f3",
+    "meaning": " springtime, spring (season)"
+  },
+  {
+    "name": "\u4ee5",
+    "kun": " \u3082\u3063.\u3066",
+    "on": " \u30a4",
+    "meaning": " by means of, because, in view of, compared with"
+  },
+  {
+    "name": "\u7a76",
+    "kun": " \u304d\u308f.\u3081\u308b",
+    "on": " \u30ad\u30e5\u30a6, \u30af",
+    "meaning": " research, study"
+  },
+  {
+    "name": "\u8d77",
+    "kun": " \u304a.\u304d\u308b, \u304a.\u3053\u308b, \u304a.\u3053\u3059, \u304a\u3053.\u3059, \u305f.\u3064",
+    "on": " \u30ad",
+    "meaning": " rouse, wake up, get up"
+  },
+  {
+    "name": "\u7740",
+    "kun": " \u304d.\u308b, -\u304e, \u304d.\u305b\u308b, -\u304d.\u305b, \u3064.\u304f, \u3064.\u3051\u308b",
+    "on": " \u30c1\u30e3\u30af, \u30b8\u30e3\u30af",
+    "meaning": " don, arrive, wear, counter for suits of clothing"
+  },
+  {
+    "name": "\u75c5",
+    "kun": " \u3084.\u3080, -\u3084.\u307f, \u3084\u307e\u3044",
+    "on": " \u30d3\u30e7\u30a6, \u30d8\u30a4",
+    "meaning": " ill, sick"
+  },
+  {
+    "name": "\u5f85",
+    "kun": " \u307e.\u3064, -\u307e.\u3061",
+    "on": " \u30bf\u30a4",
+    "meaning": " wait, depend on"
+  },
+  {
+    "name": "\u65cf",
+    "on": " \u30be\u30af",
+    "meaning": " tribe, family",
+    "words": "\nWordReadingMeaning\n\u5bb6\u65cf\u304b\u305e\u304ffamily, members of a family\n\u65cf\u305e\u304ftribe, clan, band; (taxonomical) tribe; group (of the periodic table)\n\u6c11\u65cf\u307f\u3093\u305e\u304fpeople, race, nation\n\u907a\u65cf\u3044\u305e\u304fbereaved family\n\u6c11\u65cf\u4e3b\u7fa9\u307f\u3093\u305e\u304f\u3057\u3085\u304enationalism\n\u89aa\u65cf\u3057\u3093\u305e\u304frelatives\n\u4e00\u65cf\u3044\u3061\u305e\u304ffamily, relatives, dependents; household\n\u90e8\u65cf\u3076\u305e\u304ftribe, clan, house\n\u5bb6\u65cf\u8a08\u753b\u304b\u305e\u304f\u3051\u3044\u304b\u304ffamily planning\n\u8cb4\u65cf\u304d\u305e\u304fnoble, aristocrat\n"
+  },
+  {
+    "name": "\u8272",
+    "kun": " \u3044\u308d",
+    "on": " \u30b7\u30e7\u30af, \u30b7\u30ad",
+    "meaning": " color"
+  },
+  {
+    "name": "\u9280",
+    "kun": " \u3057\u308d\u304c\u306d",
+    "on": " \u30ae\u30f3",
+    "meaning": " silver"
+  },
+  {
+    "name": "\u8d70",
+    "kun": " \u306f\u3057.\u308b",
+    "on": " \u30bd\u30a6",
+    "meaning": " run"
+  },
+  {
+    "name": "\u79cb",
+    "kun": " \u3042\u304d, \u3068\u304d",
+    "on": " \u30b7\u30e5\u30a6",
+    "meaning": " autumn"
+  },
+  {
+    "name": "\u590f",
+    "kun": " \u306a\u3064",
+    "on": " \u30ab, \u30ac, \u30b2",
+    "meaning": " summer"
+  },
+  {
+    "name": "\u533b",
+    "kun": " \u3044.\u3084\u3059, \u3044.\u3059\u308b, \u304f\u3059\u3057",
+    "on": " \u30a4",
+    "meaning": " doctor, medicine"
+  },
+  {
+    "name": "\u4ed5",
+    "kun": " \u3064\u304b.\u3048\u308b",
+    "on": " \u30b7, \u30b8",
+    "meaning": " attend, doing, official, serve"
+  },
+  {
+    "name": "\u53bb",
+    "kun": " \u3055.\u308b, -\u3055.\u308b",
+    "on": " \u30ad\u30e7, \u30b3",
+    "meaning": " gone, past, quit, leave, elapse, eliminate, divorce"
+  },
+  {
+    "name": "\u5225",
+    "kun": " \u308f\u304b.\u308c\u308b, \u308f.\u3051\u308b",
+    "on": " \u30d9\u30c4",
+    "meaning": " separate, branch off, diverge, fork, another, extra, specially"
+  },
+  {
+    "name": "\u5473",
+    "kun": " \u3042\u3058, \u3042\u3058.\u308f\u3046",
+    "on": " \u30df",
+    "meaning": " flavor, taste"
+  },
+  {
+    "name": "\u5199",
+    "kun": " \u3046\u3064.\u3059, \u3046\u3064.\u308b, \u3046\u3064-, \u3046\u3064.\u3057",
+    "on": " \u30b7\u30e3, \u30b8\u30e3",
+    "meaning": " copy, be photographed, describe"
+  },
+  {
+    "name": "\u7279",
+    "on": " \u30c8\u30af",
+    "meaning": " special",
+    "words": "\nWordReadingMeaning\n\u7279\u306b\u3068\u304f\u306bparticularly, especially\n\u7279\u5225\u3068\u304f\u3079\u3064special\n\u7279\u5fb4\u3068\u304f\u3061\u3087\u3046feature, trait, characteristic, pecularity\n\u7279\u5b9a\u3068\u304f\u3066\u3044specific, special, particular\n\u7279\u635c\u3068\u304f\u305d\u3046special investigation\n\u7279\u6b8a\u3068\u304f\u3057\u3085special, unique\n\u7279\u4f8b\u3068\u304f\u308c\u3044special case, exception\n\u72ec\u7279\u3069\u304f\u3068\u304fpeculiarity, uniqueness, characteristic\n\u7279\u4f7f\u3068\u304f\u3057special envoy\n\u7279\u96c6\u3068\u304f\u3057\u3085\u3046feature (e.g. newspaper), special edition, report\n"
+  },
+  {
+    "name": "\u5915",
+    "kun": " \u3086\u3046",
+    "on": " \u30bb\u30ad",
+    "meaning": " evening"
+  },
+  {
+    "name": "\u6ce8",
+    "kun": " \u305d\u305d.\u3050, \u3055.\u3059, \u3064.\u3050",
+    "on": " \u30c1\u30e5\u30a6",
+    "meaning": " pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate"
+  },
+  {
+    "name": "\u6599",
+    "on": " \u30ea\u30e7\u30a6",
+    "meaning": " fee, materials",
+    "words": "\nWordReadingMeaning\n\u8cc7\u6599\u3057\u308a\u3087\u3046materials, data, document\n\u7121\u6599\u3080\u308a\u3087\u3046free, no charge\n\u6599\u91d1\u308a\u3087\u3046\u304d\u3093fee, charge, fare\n\u6599\u7406\u308a\u3087\u3046\u308acooking, cookery, cuisine; dealing with something, handling, administration, management\n\u6750\u6599\u3056\u3044\u308a\u3087\u3046ingredients, material\n\u71c3\u6599\u306d\u3093\u308a\u3087\u3046fuel\n\u98df\u6599\u3057\u3087\u304f\u308a\u3087\u3046food\n\u624b\u6570\u6599\u3066\u3059\u3046\u308a\u3087\u3046handling charge, commission\n\u7d66\u6599\u304d\u3085\u3046\u308a\u3087\u3046salary, wages\n\u98f2\u6599\u3044\u3093\u308a\u3087\u3046(a) drink\n"
+  },
+  {
+    "name": "\u5efa",
+    "kun": " \u305f.\u3066\u308b, \u305f.\u3066, -\u3060.\u3066, \u305f.\u3064",
+    "on": " \u30b1\u30f3, \u30b3\u30f3",
+    "meaning": " build"
+  },
+  {
+    "name": "\u60aa",
+    "kun": " \u308f\u308b.\u3044, \u308f\u308b-, \u3042.\u3057, \u306b\u304f.\u3044, -\u306b\u304f.\u3044, \u3042\u3042, \u3044\u305a\u304f\u306b, \u3044\u305a\u304f\u3093\u305e, \u306b\u304f.\u3080",
+    "on": " \u30a2\u30af, \u30aa",
+    "meaning": " bad, vice, rascal, false, evil, wrong"
+  },
+  {
+    "name": "\u9928",
+    "kun": " \u3084\u304b\u305f, \u305f\u3066",
+    "on": " \u30ab\u30f3",
+    "meaning": " building, mansion, large building, palace"
+  },
+  {
+    "name": "\u5c4b",
+    "kun": " \u3084",
+    "on": " \u30aa\u30af",
+    "meaning": " roof, house, shop, dealer, seller"
+  },
+  {
+    "name": "\u8a66",
+    "kun": " \u3053\u3053\u308d.\u307f\u308b, \u305f\u3081.\u3059",
+    "on": " \u30b7",
+    "meaning": " test, try, attempt, experiment, ordeal"
+  },
+  {
+    "name": "\u9a13",
+    "kun": " \u3042\u304b\u3057, \u3057\u308b\u3057, \u305f\u3081.\u3059, \u305f\u3081\u3057",
+    "on": " \u30b1\u30f3, \u30b2\u30f3",
+    "meaning": " verification, effect, testing"
+  },
+  {
+    "name": "\u82f1",
+    "kun": " \u306f\u306a\u3076\u3055",
+    "on": " \u30a8\u30a4",
+    "meaning": " England, English"
+  },
+  {
+    "name": "\u7fd2",
+    "kun": " \u306a\u3089.\u3046, \u306a\u3089.\u3044",
+    "on": " \u30b7\u30e5\u30a6, \u30b8\u30e5",
+    "meaning": " learn"
+  },
+  {
+    "name": "\u66dc",
+    "on": " \u30e8\u30a6",
+    "meaning": " weekday",
+    "words": "\nWordReadingMeaning\n\u571f\u66dc\u3069\u3088\u3046Saturday\n\u66dc\u65e5\u3088\u3046\u3073day of the week\n\u65e5\u66dc\u306b\u3061\u3088\u3046Sunday\n\u91d1\u66dc\u304d\u3093\u3088\u3046Friday\n\u6708\u66dc\u3052\u3064\u3088\u3046Monday\n\u6c34\u66dc\u3059\u3044\u3088\u3046Wednesday\n\u6728\u66dc\u3082\u304f\u3088\u3046Thursday\n\u706b\u66dc\u65e5\u304b\u3088\u3046\u3073Tuesday\n\u706b\u66dc\u304b\u3088\u3046Tuesday\n\u65e5\u66dc\u7248\u306b\u3061\u3088\u3046\u3070\u3093Sunday edition of a newspaper\n"
+  },
+  {
+    "name": "\u99c5",
+    "on": " \u30a8\u30ad",
+    "meaning": " station",
+    "words": "\nWordReadingMeaning\n\u99c5\u3048\u304dstation\n\u99c5\u524d\u3048\u304d\u307e\u3048in front of station\n\u99c5\u4f1d\u3048\u304d\u3067\u3093stagecoach, post horse\n\u5bbf\u99c5\u3057\u3085\u304f\u3048\u304dpost town, relay station, stage\n\u99c5\u54e1\u3048\u304d\u3044\u3093station attendant\n\u99c5\u5f01\u3048\u304d\u3079\u3093boxed lunch bought at a station (often a local specialty); variety of sexual position\n\u99c5\u820e\u3048\u304d\u3057\u3083station building\n\u99c5\u982d\u3048\u304d\u3068\u3046station\n\u99c5\u9577\u3048\u304d\u3061\u3087\u3046station master\n\u7d42\u7740\u99c5\u3057\u3085\u3046\u3061\u3083\u304f\u3048\u304dterminal station\n"
+  },
+  {
+    "name": "\u8089",
+    "kun": " \u3057\u3057",
+    "on": " \u30cb\u30af",
+    "meaning": " meat"
+  },
+  {
+    "name": "\u6d0b",
+    "on": " \u30e8\u30a6",
+    "meaning": " ocean, western style",
+    "words": "\nWordReadingMeaning\n\u592a\u5e73\u6d0b\u305f\u3044\u3078\u3044\u3088\u3046Pacific Ocean\n\u6771\u6d0b\u3068\u3046\u3088\u3046Orient\n\u6d77\u6d0b\u304b\u3044\u3088\u3046ocean\n\u5927\u897f\u6d0b\u305f\u3044\u305b\u3044\u3088\u3046Atlantic Ocean\n\u897f\u6d0b\u305b\u3044\u3088\u3046the west, Western countries\n\u592a\u5e73\u6d0b\u6226\u4e89\u305f\u3044\u3078\u3044\u3088\u3046\u305b\u3093\u305d\u3046the Pacific War\n\u5927\u6d0b\u305f\u3044\u3088\u3046ocean\n\u6d0b\u753b\u3088\u3046\u304cWestern paintings; Western films, Western movies\n\u6d0b\u670d\u3088\u3046\u3075\u304fWestern-style clothes (cf traditional Japanese clothes)\n\u4e09\u6d0b\u3055\u3093\u3088\u3046Sanyo (company)\n"
+  },
+  {
+    "name": "\u65c5",
+    "kun": " \u305f\u3073",
+    "on": " \u30ea\u30e7",
+    "meaning": " trip, travel"
+  },
+  {
+    "name": "\u9ce5",
+    "kun": " \u3068\u308a",
+    "on": " \u30c1\u30e7\u30a6",
+    "meaning": " bird, chicken"
+  },
+  {
+    "name": "\u8cea",
+    "kun": " \u305f\u3061, \u305f\u3060.\u3059, \u3082\u3068, \u308f\u308a\u3075",
+    "on": " \u30b7\u30c4, \u30b7\u30c1, \u30c1",
+    "meaning": " substance, quality, matter, temperament"
+  },
+  {
+    "name": "\u51ac",
+    "kun": " \u3075\u3086",
+    "on": " \u30c8\u30a6",
+    "meaning": " winter"
+  },
+  {
+    "name": "\u72ac",
+    "kun": " \u3044\u306c, \u3044\u306c-",
+    "on": " \u30b1\u30f3",
+    "meaning": " dog"
+  },
+  {
+    "name": "\u670d",
+    "on": " \u30d5\u30af",
+    "meaning": " clothing, admit, obey, discharge",
+    "words": "\nWordReadingMeaning\n\u670d\u3075\u304fclothes (esp. Western clothes); counter for doses of medicine, gulps of tea, drags of a cigarette, etc.\n\u5236\u670d\u305b\u3044\u3075\u304funiform\n\u670d\u88c5\u3075\u304f\u305d\u3046garments\n\u4e0d\u670d\u3075\u3075\u304fdissatisfaction, discontent, disapproval, objection, complaint, protest, disagreement\n\u6d0b\u670d\u3088\u3046\u3075\u304fWestern-style clothes (cf traditional Japanese clothes)\n\u514b\u670d\u3053\u304f\u3075\u304fsubjugation, conquest, victory\n\u8863\u670d\u3044\u3075\u304fclothes\n\u670d\u5f79\u3075\u304f\u3048\u304dpenal servitude, military service\n\u548c\u670d\u308f\u3075\u304fJapanese clothes\n\u670d\u98fe\u3075\u304f\u3057\u3087\u304fclothing and accessories, attire\n"
+  },
+  {
+    "name": "\u663c",
+    "kun": " \u3072\u308b",
+    "on": " \u30c1\u30e5\u30a6",
+    "meaning": " daytime, noon"
+  },
+  {
+    "name": "\u8336",
+    "on": " \u30c1\u30e3, \u30b5",
+    "meaning": " tea",
+    "words": "\nWordReadingMeaning\n\u8336\u3061\u3083tea; tea plant (Camellia sinensis); tea preparation, making tea; brown; mockery\n\u304a\u8336\u304a\u3061\u3083tea (usu. green); tea break (at work); tea ceremony\n\u55ab\u8336\u5e97\u304d\u3063\u3055\u3066\u3093coffee lounge, coffee shop, (rather formal) cafe\n\u7d05\u8336\u3053\u3046\u3061\u3083black tea\n\u8336\u8272\u3061\u3083\u3044\u308dlight brown, tawny\n\u8336\u308f\u3093\u3061\u3083\u308f\u3093rice bowl, tea cup, teacup\n\u8336\u306e\u9593\u3061\u3083\u306e\u307eliving room (Japanese-style)\n\u8336\u9053\u3061\u3083\u3069\u3046, \u3055\u3069\u3046tea ceremony, Way of Tea\n\u8336\u5c4b\u3061\u3083\u3084tea house, tea dealer\n\u55ab\u8336\u304d\u3063\u3055tea drinking, tea house\n"
+  },
+  {
+    "name": "\u79c1",
+    "kun": " \u308f\u305f\u304f\u3057, \u308f\u305f\u3057",
+    "on": " \u30b7",
+    "meaning": " private, I, me"
+  },
+  {
+    "name": "\u5f1f",
+    "kun": " \u304a\u3068\u3046\u3068",
+    "on": " \u30c6\u30a4, \u30c0\u30a4, \u30c7",
+    "meaning": " younger brother, faithful service to elders"
+  },
+  {
+    "name": "\u98f2",
+    "kun": " \u306e.\u3080, -\u306e.\u307f",
+    "on": " \u30a4\u30f3, \u30aa\u30f3",
+    "meaning": " drink, smoke, take"
+  },
+  {
+    "name": "\u725b",
+    "kun": " \u3046\u3057",
+    "on": " \u30ae\u30e5\u30a6",
+    "meaning": " cow"
+  },
+  {
+    "name": "\u9b5a",
+    "kun": " \u3046\u304a, \u3055\u304b\u306a, -\u3056\u304b\u306a",
+    "on": " \u30ae\u30e7",
+    "meaning": " fish"
+  },
+  {
+    "name": "\u5144",
+    "kun": " \u3042\u306b",
+    "on": " \u30b1\u30a4, \u30ad\u30e7\u30a6",
+    "meaning": " elder brother, big brother"
+  },
+  {
+    "name": "\u52c9",
+    "kun": " \u3064\u3068.\u3081\u308b",
+    "on": " \u30d9\u30f3",
+    "meaning": " exertion"
+  },
+  {
+    "name": "\u6620",
+    "kun": " \u3046\u3064.\u308b, \u3046\u3064.\u3059, \u306f.\u3048\u308b, -\u3070.\u3048",
+    "on": " \u30a8\u30a4",
+    "meaning": " reflect, reflection, projection"
+  },
+  {
+    "name": "\u501f",
+    "kun": " \u304b.\u308a\u308b",
+    "on": " \u30b7\u30e3\u30af",
+    "meaning": " borrow, rent"
+  },
+  {
+    "name": "\u59b9",
+    "kun": " \u3044\u3082\u3046\u3068",
+    "on": " \u30de\u30a4",
+    "meaning": " younger sister"
+  },
+  {
+    "name": "\u5802",
+    "on": " \u30c9\u30a6",
+    "meaning": " public chamber, hall",
+    "words": "\nWordReadingMeaning\n\u98df\u5802\u3057\u3087\u304f\u3069\u3046dining room, dining hall, cafeteria, messroom; restaurant, eatery, snack bar, diner\n\u5802\u3069\u3046temple, shrine, hall; prefix to building meaning \"magnificent\"\n\u8b1b\u5802\u3053\u3046\u3069\u3046auditorium\n\u5802\u3005\u3069\u3046\u3069\u3046magnificent, grand, impressive, dignified, majestic, imposing, stately; fair, square, open; grandly, boldly, confidently; fairly, squarely; unreservedly, without apology, without hesitation\n\u4e00\u5802\u3044\u3061\u3069\u3046one building (hall, temple, shrine, room)\n\u516c\u4f1a\u5802\u3053\u3046\u304b\u3044\u3069\u3046town hall, public hall\n\u4f1a\u5802\u304b\u3044\u3069\u3046church, chapel, synagogue, tabernacle\n\u4efb\u5929\u5802\u306b\u3093\u3066\u3093\u3069\u3046Nintendo (video game company)\n\u8056\u5802\u305b\u3044\u3069\u3046(Confucian) temple, church, sanctuary\n\u6bbf\u5802\u3067\u3093\u3069\u3046palace, palatial building\n"
+  },
+  {
+    "name": "\u59c9",
+    "kun": " \u3042\u306d, \u306f\u306f",
+    "on": " \u30b7",
+    "meaning": " elder sister"
+  },
+  {
+    "name": "\u98ef",
+    "kun": " \u3081\u3057",
+    "on": " \u30cf\u30f3",
+    "meaning": " meal, boiled rice"
+  },
+  {
+    "name": "\u8cb8",
+    "kun": " \u304b.\u3059, \u304b.\u3057-, \u304b\u3057-",
+    "on": " \u30bf\u30a4",
+    "meaning": " lend"
+  },
+  {
+    "name": "\u6f22",
+    "on": " \u30ab\u30f3",
+    "meaning": " Sino-, China",
+    "words": "\nWordReadingMeaning\n\u6f22\u5b57\u304b\u3093\u3058Chinese characters, kanji\n\u6f22\u65b9\u85ac\u304b\u3093\u307d\u3046\u3084\u304fherbal medicine\n\u6f22\u65b9\u304b\u3093\u307d\u3046traditional Chinese medicine\n\u6f22\u8a69\u304b\u3093\u3057, \u304b\u3089\u3046\u305fChinese poetry\n\u6f22\u6587\u304b\u3093\u3076\u3093Chinese classical literature; literature written entirely in kanji\n\u75f4\u6f22\u3061\u304b\u3093masher, molester, pervert\n\u5de8\u6f22\u304d\u3087\u304b\u3093giant\n\u66b4\u6f22\u307c\u3046\u304b\u3093hoodlum, ruffian\n\u6f22\u8a9e\u304b\u3093\u3054Chinese word, Sino-Japanese word\n\u6f22\u548c\u8f9e\u5178\u304b\u3093\u308f\u3058\u3066\u3093Chinese-Japanese character dictionary\n"
+  }
+]

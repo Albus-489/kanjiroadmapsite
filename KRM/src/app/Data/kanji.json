@@ -1,0 +1,482 @@
+[
+  {
+    "name": "\u65e5",
+    "kun": " \u3072, -\u3073, -\u304b",
+    "on": " \u30cb\u30c1, \u30b8\u30c4",
+    "meaning": " day, sun, Japan, counter for days"
+  },
+  {
+    "name": "\u4e00",
+    "kun": " \u3072\u3068-, \u3072\u3068.\u3064",
+    "on": " \u30a4\u30c1, \u30a4\u30c4",
+    "meaning": " one, one radical (no.1)"
+  },
+  {
+    "name": "\u4eba",
+    "kun": " \u3072\u3068, -\u308a, -\u3068",
+    "on": " \u30b8\u30f3, \u30cb\u30f3",
+    "meaning": " person"
+  },
+  {
+    "name": "\u5e74",
+    "kun": " \u3068\u3057",
+    "on": " \u30cd\u30f3",
+    "meaning": " year, counter for years"
+  },
+  {
+    "name": "\u5927",
+    "kun": " \u304a\u304a-, \u304a\u304a.\u304d\u3044, -\u304a\u304a.\u3044\u306b",
+    "on": " \u30c0\u30a4, \u30bf\u30a4",
+    "meaning": " large, big"
+  },
+  {
+    "name": "\u5341",
+    "kun": " \u3068\u304a, \u3068",
+    "on": " \u30b8\u30e5\u30a6, \u30b8\u30c3, \u30b8\u30e5\u30c3",
+    "meaning": " ten"
+  },
+  {
+    "name": "\u4e8c",
+    "kun": " \u3075\u305f, \u3075\u305f.\u3064, \u3075\u305f\u305f.\u3073",
+    "on": " \u30cb, \u30b8",
+    "meaning": " two, two radical (no.2)"
+  },
+  {
+    "name": "\u672c",
+    "kun": " \u3082\u3068",
+    "on": " \u30db\u30f3",
+    "meaning": " book, present, main, true, real, counter for long cylindrical things"
+  },
+  {
+    "name": "\u4e2d",
+    "kun": " \u306a\u304b, \u3046\u3061, \u3042\u305f.\u308b",
+    "on": " \u30c1\u30e5\u30a6",
+    "meaning": " in, inside, middle, mean, center"
+  },
+  {
+    "name": "\u51fa",
+    "kun": " \u3067.\u308b, -\u3067, \u3060.\u3059, -\u3060.\u3059, \u3044.\u3067\u308b, \u3044.\u3060\u3059",
+    "on": " \u30b7\u30e5\u30c4, \u30b9\u30a4",
+    "meaning": " exit, leave"
+  },
+  {
+    "name": "\u4e09",
+    "kun": " \u307f, \u307f.\u3064, \u307f\u3063.\u3064",
+    "on": " \u30b5\u30f3, \u30be\u30a6",
+    "meaning": " three"
+  },
+  {
+    "name": "\u898b",
+    "kun": " \u307f.\u308b, \u307f.\u3048\u308b, \u307f.\u305b\u308b",
+    "on": " \u30b1\u30f3",
+    "meaning": " see, hopes, chances, idea, opinion, look at, visible"
+  },
+  {
+    "name": "\u6708",
+    "kun": " \u3064\u304d",
+    "on": " \u30b2\u30c4, \u30ac\u30c4",
+    "meaning": " month, moon"
+  },
+  {
+    "name": "\u751f",
+    "kun": " \u3044.\u304d\u308b, \u3044.\u304b\u3059, \u3044.\u3051\u308b, \u3046.\u307e\u308c\u308b, \u3046.\u307e\u308c, \u3046\u307e\u308c, \u3046.\u3080, \u304a.\u3046, \u306f.\u3048\u308b, \u306f.\u3084\u3059, \u304d, \u306a\u307e, \u306a\u307e-, \u306a.\u308b, \u306a.\u3059, \u3080.\u3059, -\u3046",
+    "on": " \u30bb\u30a4, \u30b7\u30e7\u30a6",
+    "meaning": " life, genuine, birth"
+  },
+  {
+    "name": "\u4e94",
+    "kun": " \u3044\u3064, \u3044\u3064.\u3064",
+    "on": " \u30b4",
+    "meaning": " five"
+  },
+  {
+    "name": "\u4e0a",
+    "kun": " \u3046\u3048, -\u3046\u3048, \u3046\u308f-, \u304b\u307f, \u3042.\u3052\u308b, -\u3042.\u3052\u308b, \u3042.\u304c\u308b, -\u3042.\u304c\u308b, \u3042.\u304c\u308a, -\u3042.\u304c\u308a, \u306e\u307c.\u308b, \u306e\u307c.\u308a, \u306e\u307c.\u305b\u308b, \u306e\u307c.\u3059, \u3088.\u3059",
+    "on": " \u30b8\u30e7\u30a6, \u30b7\u30e7\u30a6, \u30b7\u30e3\u30f3",
+    "meaning": " above, up"
+  },
+  {
+    "name": "\u56db",
+    "kun": " \u3088, \u3088.\u3064, \u3088\u3063.\u3064, \u3088\u3093",
+    "on": " \u30b7",
+    "meaning": " four"
+  },
+  {
+    "name": "\u91d1",
+    "kun": " \u304b\u306d, \u304b\u306a-, -\u304c\u306d",
+    "on": " \u30ad\u30f3, \u30b3\u30f3, \u30b4\u30f3",
+    "meaning": " gold"
+  },
+  {
+    "name": "\u4e5d",
+    "kun": " \u3053\u3053\u306e, \u3053\u3053\u306e.\u3064",
+    "on": " \u30ad\u30e5\u30a6, \u30af",
+    "meaning": " nine"
+  },
+  {
+    "name": "\u5165",
+    "kun": " \u3044.\u308b, -\u3044.\u308b, -\u3044.\u308a, \u3044.\u308c\u308b, -\u3044.\u308c, \u306f\u3044.\u308b",
+    "on": " \u30cb\u30e5\u30a6, \u30b8\u30e5",
+    "meaning": " enter, insert"
+  },
+  {
+    "name": "\u5b66",
+    "kun": " \u307e\u306a.\u3076",
+    "on": " \u30ac\u30af",
+    "meaning": " study, learning, science"
+  },
+  {
+    "name": "\u5186",
+    "kun": " \u307e\u308b.\u3044, \u307e\u308b, \u307e\u3069, \u307e\u3069.\u304b, \u307e\u308d.\u3084\u304b",
+    "on": " \u30a8\u30f3",
+    "meaning": " circle, yen, round"
+  },
+  {
+    "name": "\u5b50",
+    "kun": " \u3053, -\u3053, \u306d",
+    "on": " \u30b7, \u30b9, \u30c4",
+    "meaning": " child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+  },
+  {
+    "name": "\u516b",
+    "kun": " \u3084, \u3084.\u3064, \u3084\u3063.\u3064, \u3088\u3046",
+    "on": " \u30cf\u30c1",
+    "meaning": " eight, eight radical (no. 12)"
+  },
+  {
+    "name": "\u516d",
+    "kun": " \u3080, \u3080.\u3064, \u3080\u3063.\u3064, \u3080\u3044",
+    "on": " \u30ed\u30af, \u30ea\u30af",
+    "meaning": " six"
+  },
+  {
+    "name": "\u4e0b",
+    "kun": " \u3057\u305f, \u3057\u3082, \u3082\u3068, \u3055.\u3052\u308b, \u3055.\u304c\u308b, \u304f\u3060.\u308b, \u304f\u3060.\u308a, \u304f\u3060.\u3059, -\u304f\u3060.\u3059, \u304f\u3060.\u3055\u308b, \u304a.\u308d\u3059, \u304a.\u308a\u308b",
+    "on": " \u30ab, \u30b2",
+    "meaning": " below, down, descend, give, low, inferior"
+  },
+  {
+    "name": "\u6c17",
+    "kun": " \u3044\u304d",
+    "on": " \u30ad, \u30b1",
+    "meaning": " spirit, mind, air, atmosphere, mood"
+  },
+  {
+    "name": "\u5c0f",
+    "kun": " \u3061\u3044.\u3055\u3044, \u3053-, \u304a-, \u3055-",
+    "on": " \u30b7\u30e7\u30a6",
+    "meaning": " little, small"
+  },
+  {
+    "name": "\u4e03",
+    "kun": " \u306a\u306a, \u306a\u306a.\u3064, \u306a\u306e",
+    "on": " \u30b7\u30c1",
+    "meaning": " seven"
+  },
+  {
+    "name": "\u5c71",
+    "kun": " \u3084\u307e",
+    "on": " \u30b5\u30f3, \u30bb\u30f3",
+    "meaning": " mountain"
+  },
+  {
+    "name": "\u5973",
+    "kun": " \u304a\u3093\u306a, \u3081",
+    "on": " \u30b8\u30e7, \u30cb\u30e7, \u30cb\u30e7\u30a6",
+    "meaning": " woman, female"
+  },
+  {
+    "name": "\u767e",
+    "kun": " \u3082\u3082",
+    "on": " \u30d2\u30e3\u30af, \u30d3\u30e3\u30af",
+    "meaning": " hundred"
+  },
+  {
+    "name": "\u5148",
+    "kun": " \u3055\u304d, \u307e.\u305a",
+    "on": " \u30bb\u30f3",
+    "meaning": " before, ahead, previous, future, precedence"
+  },
+  {
+    "name": "\u540d",
+    "kun": " \u306a, -\u306a",
+    "on": " \u30e1\u30a4, \u30df\u30e7\u30a6",
+    "meaning": " name, noted, distinguished, reputation"
+  },
+  {
+    "name": "\u5ddd",
+    "kun": " \u304b\u308f",
+    "on": " \u30bb\u30f3",
+    "meaning": " stream, river, river or 3-stroke river radical (no. 47)"
+  },
+  {
+    "name": "\u5343",
+    "kun": " \u3061",
+    "on": " \u30bb\u30f3",
+    "meaning": " thousand"
+  },
+  {
+    "name": "\u6c34",
+    "kun": " \u307f\u305a, \u307f\u305a-",
+    "on": " \u30b9\u30a4",
+    "meaning": " water"
+  },
+  {
+    "name": "\u56fd",
+    "kun": " \u304f\u306b",
+    "on": " \u30b3\u30af",
+    "meaning": " country"
+  },
+  {
+    "name": "\u9577",
+    "kun": " \u306a\u304c.\u3044, \u304a\u3055",
+    "on": " \u30c1\u30e7\u30a6",
+    "meaning": " long, leader"
+  },
+  {
+    "name": "\u7537",
+    "kun": " \u304a\u3068\u3053, \u304a",
+    "on": " \u30c0\u30f3, \u30ca\u30f3",
+    "meaning": " male"
+  },
+  {
+    "name": "\u6642",
+    "kun": " \u3068\u304d, -\u3069\u304d",
+    "on": " \u30b8",
+    "meaning": " time, hour"
+  },
+  {
+    "name": "\u884c",
+    "kun": " \u3044.\u304f, \u3086.\u304f, -\u3086.\u304d, -\u3086\u304d, -\u3044.\u304d, -\u3044\u304d, \u304a\u3053\u306a.\u3046, \u304a\u3053.\u306a\u3046",
+    "on": " \u30b3\u30a6, \u30ae\u30e7\u30a6, \u30a2\u30f3",
+    "meaning": " going, journey"
+  },
+  {
+    "name": "\u5206",
+    "kun": " \u308f.\u3051\u308b, \u308f.\u3051, \u308f.\u304b\u308c\u308b, \u308f.\u304b\u308b, \u308f.\u304b\u3064",
+    "on": " \u30d6\u30f3, \u30d5\u30f3, \u30d6",
+    "meaning": " part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100"
+  },
+  {
+    "name": "\u5f8c",
+    "kun": " \u306e\u3061, \u3046\u3057.\u308d, \u3046\u3057\u308d, \u3042\u3068, \u304a\u304f.\u308c\u308b",
+    "on": " \u30b4, \u30b3\u30a6",
+    "meaning": " behind, back, later"
+  },
+  {
+    "name": "\u524d",
+    "kun": " \u307e\u3048, -\u307e\u3048",
+    "on": " \u30bc\u30f3",
+    "meaning": " in front, before"
+  },
+  {
+    "name": "\u9593",
+    "kun": " \u3042\u3044\u3060, \u307e, \u3042\u3044",
+    "on": " \u30ab\u30f3, \u30b1\u30f3",
+    "meaning": " interval, space"
+  },
+  {
+    "name": "\u6771",
+    "kun": " \u3072\u304c\u3057",
+    "on": " \u30c8\u30a6",
+    "meaning": " east"
+  },
+  {
+    "name": "\u4eca",
+    "kun": " \u3044\u307e",
+    "on": " \u30b3\u30f3, \u30ad\u30f3",
+    "meaning": " now"
+  },
+  {
+    "name": "\u9ad8",
+    "kun": " \u305f\u304b.\u3044, \u305f\u304b, -\u3060\u304b, \u305f\u304b.\u307e\u308b, \u305f\u304b.\u3081\u308b",
+    "on": " \u30b3\u30a6",
+    "meaning": " tall, high, expensive"
+  },
+  {
+    "name": "\u6821",
+    "on": " \u30b3\u30a6, \u30ad\u30e7\u30a6",
+    "meaning": " exam, school, printing, proof, correction",
+    "words": "\nWordReadingMeaning\n\u5b66\u6821\u304c\u3063\u3053\u3046school\n\u9ad8\u6821\u3053\u3046\u3053\u3046senior high school\n\u6821\u9577\u3053\u3046\u3061\u3087\u3046principal, headmaster\n\u9ad8\u6821\u751f\u3053\u3046\u3053\u3046\u305b\u3044senior high school student\n\u5c0f\u5b66\u6821\u3057\u3087\u3046\u304c\u3063\u3053\u3046primary school, elementary school, grade school\n\u4e2d\u5b66\u6821\u3061\u3085\u3046\u304c\u3063\u3053\u3046junior high school, middle school, lower secondary school\n\u767b\u6821\u3068\u3046\u3053\u3046attendance (at school), going to school\n\u6821\u820e\u3053\u3046\u3057\u3083school building\n\u540c\u6821\u3069\u3046\u3053\u3046same school\n\u5c02\u9580\u5b66\u6821\u305b\u3093\u3082\u3093\u304c\u3063\u3053\u3046, \u305b\u3093\u3082\u3093\u30ac\u30c3\u30b3\u30a6, \u305b\u3093\u3082\u3093\u30ac\u30c3\u30b3vocational school, technical school\n"
+  },
+  {
+    "name": "\u571f",
+    "kun": " \u3064\u3061",
+    "on": " \u30c9, \u30c8",
+    "meaning": " soil, earth, ground, Turkey"
+  },
+  {
+    "name": "\u5916",
+    "kun": " \u305d\u3068, \u307b\u304b, \u306f\u305a.\u3059, \u306f\u305a.\u308c\u308b, \u3068-",
+    "on": " \u30ac\u30a4, \u30b2",
+    "meaning": " outside"
+  },
+  {
+    "name": "\u6728",
+    "kun": " \u304d, \u3053-",
+    "on": " \u30dc\u30af, \u30e2\u30af",
+    "meaning": " tree, wood"
+  },
+  {
+    "name": "\u6765",
+    "kun": " \u304f.\u308b, \u304d\u305f.\u308b, \u304d\u305f.\u3059, \u304d.\u305f\u3059, \u304d.\u305f\u308b, \u304d, \u3053",
+    "on": " \u30e9\u30a4, \u30bf\u30a4",
+    "meaning": " come, due, next, cause, become"
+  },
+  {
+    "name": "\u8eca",
+    "kun": " \u304f\u308b\u307e",
+    "on": " \u30b7\u30e3",
+    "meaning": " car"
+  },
+  {
+    "name": "\u8a71",
+    "kun": " \u306f\u306a.\u3059, \u306f\u306a\u3057",
+    "on": " \u30ef",
+    "meaning": " tale, talk"
+  },
+  {
+    "name": "\u5317",
+    "kun": " \u304d\u305f",
+    "on": " \u30db\u30af",
+    "meaning": " north"
+  },
+  {
+    "name": "\u5348",
+    "kun": " \u3046\u307e",
+    "on": " \u30b4",
+    "meaning": " noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac"
+  },
+  {
+    "name": "\u66f8",
+    "kun": " \u304b.\u304f, -\u304c.\u304d, -\u304c\u304d",
+    "on": " \u30b7\u30e7",
+    "meaning": " write"
+  },
+  {
+    "name": "\u534a",
+    "kun": " \u306a\u304b.\u3070",
+    "on": " \u30cf\u30f3",
+    "meaning": " half, middle, odd number, semi-, part-"
+  },
+  {
+    "name": "\u767d",
+    "kun": " \u3057\u308d, \u3057\u3089-, \u3057\u308d.\u3044",
+    "on": " \u30cf\u30af, \u30d3\u30e3\u30af",
+    "meaning": " white"
+  },
+  {
+    "name": "\u897f",
+    "kun": " \u306b\u3057",
+    "on": " \u30bb\u30a4, \u30b5\u30a4, \u30b9",
+    "meaning": " west, Spain"
+  },
+  {
+    "name": "\u96fb",
+    "on": " \u30c7\u30f3",
+    "meaning": " electricity",
+    "words": "\nWordReadingMeaning\n\u96fb\u8a71\u3067\u3093\u308ftelephone\n\u96fb\u6c17\u3067\u3093\u304delectricity; (electric) light\n\u96fb\u529b\u3067\u3093\u308a\u3087\u304felectric power\n\u96fb\u5b50\u3067\u3093\u3057electron; (esp. as a prefix) electronic, electronics\n\u96fb\u8eca\u3067\u3093\u3057\u3083(electric) train\n\u5bb6\u96fb\u304b\u3067\u3093consumer electronics\n\u96fb\u6a5f\u3067\u3093\u304delectrical machinery, appliances\n\u96fb\u6ce2\u3067\u3093\u3071electro-magnetic wave, radio wave; nonsense\n\u767a\u96fb\u306f\u3064\u3067\u3093generation (e.g. power)\n\u767a\u96fb\u6240\u306f\u3064\u3067\u3093\u3057\u3087power plant, power station\n"
+  },
+  {
+    "name": "\u5929",
+    "kun": " \u3042\u307e\u3064, \u3042\u3081, \u3042\u307e-",
+    "on": " \u30c6\u30f3",
+    "meaning": " heavens, sky, imperial"
+  },
+  {
+    "name": "\u8a9e",
+    "kun": " \u304b\u305f.\u308b, \u304b\u305f.\u3089\u3046",
+    "on": " \u30b4",
+    "meaning": " word, speech, language"
+  },
+  {
+    "name": "\u805e",
+    "kun": " \u304d.\u304f, \u304d.\u3053\u3048\u308b",
+    "on": " \u30d6\u30f3, \u30e2\u30f3",
+    "meaning": " hear, ask, listen"
+  },
+  {
+    "name": "\u98df",
+    "kun": " \u304f.\u3046, \u304f.\u3089\u3046, \u305f.\u3079\u308b, \u306f.\u3080",
+    "on": " \u30b7\u30e7\u30af, \u30b8\u30ad",
+    "meaning": " eat, food"
+  },
+  {
+    "name": "\u4f55",
+    "kun": " \u306a\u306b, \u306a\u3093, \u306a\u306b-, \u306a\u3093-",
+    "on": " \u30ab",
+    "meaning": " what"
+  },
+  {
+    "name": "\u5357",
+    "kun": " \u307f\u306a\u307f",
+    "on": " \u30ca\u30f3, \u30ca",
+    "meaning": " south"
+  },
+  {
+    "name": "\u706b",
+    "kun": " \u3072, -\u3073, \u307b-",
+    "on": " \u30ab",
+    "meaning": " fire"
+  },
+  {
+    "name": "\u53f3",
+    "kun": " \u307f\u304e",
+    "on": " \u30a6, \u30e6\u30a6",
+    "meaning": " right"
+  },
+  {
+    "name": "\u4e07",
+    "kun": " \u3088\u308d\u305a",
+    "on": " \u30de\u30f3, \u30d0\u30f3",
+    "meaning": " ten thousand, 10,000"
+  },
+  {
+    "name": "\u5de6",
+    "kun": " \u3072\u3060\u308a",
+    "on": " \u30b5, \u30b7\u30e3",
+    "meaning": " left"
+  },
+  {
+    "name": "\u4f11",
+    "kun": " \u3084\u3059.\u3080, \u3084\u3059.\u307e\u308b, \u3084\u3059.\u3081\u308b",
+    "on": " \u30ad\u30e5\u30a6",
+    "meaning": " rest, day off, retire, sleep"
+  },
+  {
+    "name": "\u6bce",
+    "kun": " \u3054\u3068, -\u3054\u3068.\u306b",
+    "on": " \u30de\u30a4",
+    "meaning": " every"
+  },
+  {
+    "name": "\u6bcd",
+    "kun": " \u306f\u306f, \u3082",
+    "on": " \u30dc",
+    "meaning": " mama, mother"
+  },
+  {
+    "name": "\u8aad",
+    "kun": " \u3088.\u3080, -\u3088.\u307f",
+    "on": " \u30c9\u30af, \u30c8\u30af, \u30c8\u30a6",
+    "meaning": " read"
+  },
+  {
+    "name": "\u53cb",
+    "kun": " \u3068\u3082",
+    "on": " \u30e6\u30a6",
+    "meaning": " friend"
+  },
+  {
+    "name": "\u7236",
+    "kun": " \u3061\u3061",
+    "on": " \u30d5",
+    "meaning": " father"
+  },
+  {
+    "name": "\u96e8",
+    "kun": " \u3042\u3081, \u3042\u307e-, -\u3055\u3081",
+    "on": " \u30a6",
+    "meaning": " rain"
+  }
+]

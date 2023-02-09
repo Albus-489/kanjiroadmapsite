@@ -1,0 +1,42 @@
+<div class="wrapper">
+  <mdb-navbar SideClass="navbar sticky-top navbar-expand-sm navbar-dark black lighten-1" [containerInside]="false">
+
+    <!-- Navbar brand -->
+    <mdb-navbar-brand>
+      <a (click)="musicToggle()" class="navbar-brand"><img src="../assets/imgs/logo.png" width="30" height="30"
+          [className]="isActive ? 'circle_motion' : 'circle_static'" alt=""></a><span class="siteName">Kanji
+        Roadmap</span>
+    </mdb-navbar-brand>
+
+    <!-- Collapsible content -->
+    <links>
+      <!-- Links -->
+      <div class="lnks">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" title="a1" routerLink="a1">( JLPT4 ) </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" title="a2" routerLink="a2">( JLPT3 )</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" title="b1" routerLink="b1">( JLPT2 ) </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" title="b2" routerLink="b2">( JLPT1 ) </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" title="fav" routerLink="fav"> Favorite </a>
+          </li>
+        </ul>
+    </div>
+      <!-- Links -->
+    </links>
+    <!-- Collapsible content -->
+
+  </mdb-navbar>
+  <!--/.Navbar-->
+  <div class="components">
+    <router-outlet></router-outlet>
+  </div>
+</div>

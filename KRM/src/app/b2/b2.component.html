@@ -1,0 +1,51 @@
+<div class="main">
+  <div class="a1body">
+    <div class="content">
+      <!-- ? KANA/TRANSLATION SWITCHES SECTION -->
+      <div class="cube">
+        <div (click)="kanaToggle(1)" [defaultChecked]="true" type="checkbox" title="Translation" class="a">
+          <span>
+            <h1>A</h1>
+          </span>
+          <span *ngIf="!translationState">-</span>
+        </div>
+        <div (click)="kanaToggle(2)" [defaultChecked]="true" title="Katakana" class="b">
+          <span>
+            <h1>ア</h1>
+          </span>
+          <span *ngIf="!katakana">-</span>
+        </div>
+        <div (click)="kanaToggle(3)" [defaultChecked]="true" title="Hiragana" class="c">
+          <span>
+            <h1>あ</h1>
+          </span>
+          <span *ngIf="!hiragana">-</span>
+        </div>
+      </div>
+      <!-- ? KANA/TRANSLATION SWITCHES SECTION -->
+
+      <!-- * CARDS SECTION -->
+      <div class="container">
+        <ul>
+          <li *ngFor="let obj of kanjiArr">
+
+            <div class="kanji__block waves-light" type="button" mdbPopover="Kun: {{hiragana ? obj.kun : hOff}} <|> On: {{katakana ? obj.on : kOff}}"
+              placement="right" mdbPopoverHeader="{{translationState ? obj.meaning : tOff}}" mdbWavesEffect>
+
+              <div><span class="kanjiInCard">{{obj.name}}</span></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!-- * CARDS SECTION -->
+
+      <!-- ^ PAGINATOR SECTION -->
+      <div class="pagin sticky-bottom">
+        <button (click)="prevPage()" mat-raised-button><mat-icon>keyboard_arrow_left</mat-icon></button>
+        <input autofocus (change)="changePage(pageNumber)" [(ngModel)]="pageNumber" [defaultValue]="pageNumber" />
+        <button (click)="nextPage()" mat-raised-button><mat-icon>keyboard_arrow_right</mat-icon></button>
+      </div>
+      <!-- ^ PAGINATOR SECTION -->
+    </div>
+  </div>
+</div>
