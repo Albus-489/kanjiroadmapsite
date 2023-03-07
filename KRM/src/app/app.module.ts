@@ -18,6 +18,7 @@ import { FormsModule } from '@angular/forms';
 import { SettingspageComponent } from './settingspage/settingspage.component';
 import {MatDividerModule} from '@angular/material/divider';
 import { FavotireComponent } from './favotire/favotire.component';
+import { TestsAndPracticeComponent } from './tests-and-practice/tests-and-practice.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { FavotireComponent } from './favotire/favotire.component';
     UserpageComponent,
     FooterComponent,
     SettingspageComponent,
-    FavotireComponent
+    FavotireComponent,
+    TestsAndPracticeComponent
   ],
   imports: [
     BrowserModule,
