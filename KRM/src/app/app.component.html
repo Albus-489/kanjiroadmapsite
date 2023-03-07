@@ -1,11 +1,18 @@
 <div class="wrapper">
-  <mdb-navbar SideClass="navbar sticky-top navbar-expand-sm navbar-dark black lighten-1" [containerInside]="false">
-
+  <mdb-navbar
+    SideClass="navbar sticky-top navbar-expand-sm navbar-dark black lighten-1"
+    [containerInside]="false"
+  >
     <!-- Navbar brand -->
     <mdb-navbar-brand>
-      <a (click)="musicToggle()" class="navbar-brand"><img src="../assets/imgs/logo.png" width="30" height="30"
-          [className]="isActive ? 'circle_motion' : 'circle_static'" alt=""></a><span class="siteName">Kanji
-        Roadmap</span>
+      <a (click)="musicToggle()" class="navbar-brand"
+        ><img
+          src="../assets/imgs/logo.png"
+          width="30"
+          height="30"
+          [className]="isActive ? 'circle_motion' : 'circle_static'"
+          alt="" /></a
+      ><span class="siteName">Kanji Roadmap</span>
     </mdb-navbar-brand>
 
     <!-- Collapsible content -->
@@ -28,15 +35,70 @@
           <li class="nav-item">
             <a class="nav-link" title="fav" routerLink="fav"> Favorite </a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" title="tests" routerLink="tests"> Tests </a>
+          </li>
         </ul>
-    </div>
+      </div>
       <!-- Links -->
     </links>
     <!-- Collapsible content -->
-
   </mdb-navbar>
   <!--/.Navbar-->
+
+  <!-- ? KANA/TRANSLATION SWITCHES SECTION -->
+  <div class="cube">
+    <div
+      (click)="kanaToggle(1)"
+      [defaultChecked]="true"
+      type="checkbox"
+      title="Translation"
+      class="a"
+    >
+      <span>
+        <h1>A</h1>
+      </span>
+      <span *ngIf="!kanaToggleInfo.translationState">-</span>
+    </div>
+    <div
+      (click)="kanaToggle(2)"
+      [defaultChecked]="true"
+      title="Katakana"
+      class="b"
+    >
+      <span>
+        <h1>ア</h1>
+      </span>
+      <span *ngIf="!kanaToggleInfo.katakana">-</span>
+    </div>
+    <div
+      (click)="kanaToggle(3)"
+      [defaultChecked]="true"
+      title="Hiragana"
+      class="c"
+    >
+      <span>
+        <h1>あ</h1>
+      </span>
+      <span *ngIf="!kanaToggleInfo.hiragana">-</span>
+    </div>
+  </div>
+  <!-- ? KANA/TRANSLATION SWITCHES SECTION -->
+
   <div class="components">
     <router-outlet></router-outlet>
   </div>
+
+  <!-- ? SETTINGS BLOCK -->
+  <div class="sett">
+    <div class="sett__block">
+      <span>Hover to hint </span>
+      <input
+        (change)="changeSet()"
+        [defaultChecked]="hoverToHint"
+        type="checkbox"
+      />
+    </div>
+  </div>
+  <!-- ? SETTINGS BLOCK -->
 </div>

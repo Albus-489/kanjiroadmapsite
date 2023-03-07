@@ -28,3 +28,60 @@ a{
 *{
   font-size: 103%;
 }
+
+.kanaToggle {
+  display: flex;
+  justify-content: end;
+
+  margin-top: 0;
+  padding: 0 1% 25px 2%;
+
+  section {
+    width: 120px;
+    background-color: bisque;
+    padding: 4px 0;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+  }
+}
+
+.cube {
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+  -webkit-user-select: none;
+  .a,
+  .b,
+  .c {
+    display: flex;
+    justify-content: center;
+    margin: 0 5px;
+    width: 40px;
+    height: 40px;
+
+    padding: 5px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #f7f7f7;
+    transition: 0.3s;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(215, 208, 208);
+
+    &:hover {
+      background-color: rgba(244, 232, 217, 0.525);
+    }
+
+    &:active {
+      background-color: rgba(248, 241, 232, 0.728);
+      box-shadow: 0 5px #666;
+      transform: translateY(3px);
+    }
+  }
+
+}
